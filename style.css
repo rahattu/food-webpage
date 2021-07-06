@@ -1,0 +1,36 @@
+body{
+  
+    font-family: 'Trocchi', serif;
+    padding-left:45px;
+    padding-top:45px;
+    font-size: 35px;
+    margin:0px;
+}
+.orange{
+    color:rgb(243, 141, 9);
+}
+.useflex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.link-button{
+    text-decoration:none;
+     background-image:linear-gradient(rgb(255, 0, 85),rgb(250, 38, 23));
+     color:white;
+     padding:10px 40px;
+     font-weight: 700px;
+ }
+ .halfwidth{
+   width: 50%;
+    padding-left: 2%;
+    
+}
+.halfwidth img{
+    width: 75%;
+    padding-top: 10%;
+}
+
+h1{
+    font-size: 55px;
+}
+
